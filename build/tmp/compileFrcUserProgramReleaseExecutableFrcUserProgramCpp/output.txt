@@ -1,4 +1,0 @@
-See file:///Users/cking/Documents/Codes/Robo2020/FRC2020/build/tmp/compileFrcUserProgramReleaseExecutableFrcUserProgramCpp/output.txt for all output for compileFrcUserProgramReleaseExecutableFrcUserProgramCpp.
-compiling Robot.cpp successful.
-
-Finished compileFrcUserProgramReleaseExecutableFrcUserProgramCpp, see full log file:///Users/cking/Documents/Codes/Robo2020/FRC2020/build/tmp/compileFrcUserProgramReleaseExecutableFrcUserProgramCpp/output.txt.
